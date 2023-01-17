@@ -18,7 +18,7 @@ text-decoration: none;}
 
 .headr{
     background-color: black;
-    width: 1550px;
+    width: 1263px;
     height: 150px;
     margin: 0px;
     padding: 0px;
@@ -26,13 +26,7 @@ text-decoration: none;}
     margin-top: 0px;
 }
 
-.hdr{
-    margin-left: 760px;
-    float: left;
-    
-    color: aliceblue;
-    
-}
+
 
 .imgAndDes {
     background-color: bisque;
