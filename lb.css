@@ -24,6 +24,43 @@ text-decoration: none;}
     padding: 0px;
     position: static;
     margin-top: 0px;
+    display: flex;
+}
+
+
+
+.iconTable{
+    display: flex;
+    align-self: center;
+    margin-top: 15px;
+    float: right;
+    margin-left: 680px;
+    
+    
+    
+    
+}
+
+.topIc{
+    display: inline-block;
+    margin-right: 25px;
+    
+}
+
+
+.icnBtn{
+    font-size: 20px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-radius: 35px;
+    padding: 10px,100px,3px,3px;
+    height: 35px;
+    width: 85px;
+    
+}
+
+.icnBtn:hover{
+    background-color: aqua;
+    color: blueviolet;
 }
 
 
