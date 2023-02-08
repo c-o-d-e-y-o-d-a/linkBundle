@@ -97,6 +97,7 @@ text-decoration: none;}
    margin-top:  90px ;
    margin-bottom: 200px;
    opacity: 1;
+   display: flex;
     
 }
 
@@ -136,6 +137,7 @@ text-decoration: none;}
     box-shadow: 3px 3px black;
     border-radius: 5px;
     opacity: 0.6;
+    width: 100%;
 }
 
 .l1{
@@ -194,6 +196,7 @@ font-size: 27px;
     margin-right: 100px;
     margin-top: 30px;
     margin-bottom: 20px;
+    flex-wrap: wrap;
 
     
 }
@@ -226,5 +229,44 @@ starting of animation effects
      }
 }
 
+
+
+/*
+beginning of css code to make the site more responsive
+*/
+
+
+
+@media (min-width: 576px) { 
+    .l{
+        width: 100%;
+        
+    }
+
+    .linkBtn{
+        display: inline-block;
+        align-self: center;
+        
+    }
+
+    
+
+ }
+
+@media (min-width: 768px) { 
+
+ }
+
+@media (min-width: 992px) { 
+
+ }
+
+@media (min-width: 1200px) { 
+
+ }
+
+@media (min-width: 1400px) {
+
+  }
 
 
