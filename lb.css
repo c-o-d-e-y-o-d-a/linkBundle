@@ -237,15 +237,20 @@ beginning of css code to make the site more responsive
 
 
 
-@media (min-width: 576px) { 
+@media (max-width: 481px) { 
     .l{
         width: 100%;
         
     }
 
     .linkBtn{
-        display: inline-block;
+        display: inline;
         align-self: center;
+        width: 50%;
+        height: 10%;
+        margin-bottom: 2%;
+        
+
         
     }
 
@@ -253,20 +258,6 @@ beginning of css code to make the site more responsive
 
  }
 
-@media (min-width: 768px) { 
 
- }
-
-@media (min-width: 992px) { 
-
- }
-
-@media (min-width: 1200px) { 
-
- }
-
-@media (min-width: 1400px) {
-
-  }
 
 
