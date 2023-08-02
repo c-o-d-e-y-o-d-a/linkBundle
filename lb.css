@@ -36,8 +36,8 @@ text-decoration: none;}
 
 .headr{
     background: linear-gradient(rgb(112, 112, 211),rgb(197, 56, 197));
-    width: 1263px;
-    height: 150px;
+    width: 100%;
+    height: 20dvh;
     margin: 0px;
     padding: 0px;
     position: static;
